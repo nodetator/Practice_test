@@ -1,0 +1,27 @@
+.Title {
+    height: auto
+    width: 50px;
+    margin: auto;
+    border: 50px;
+    background-color: red;
+    padding:50px ;
+    text-align: center;
+}
+
+.Normal {
+    height: auto
+    width: 50px;
+    margin: 50px;
+    border: 50px;
+    padding: 50px;
+    text-align: center;
+}
+
+#Ethereum {
+    height: auto
+    width: 50px;
+    margin: auto;
+    border: 50px;
+    padding: 50px;
+    text-align: center;
+}
